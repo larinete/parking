@@ -1,7 +1,5 @@
 # 📍 Onde Estacionei? 🚗
-
-[![Licença MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub Pages](https://img.shields.io/badge/vivo-GitHub%20Pages-success)](https://seu-usuario.github.io/onde-estacionei/)
+---
 
 Nunca mais percas tempo à procura do teu carro!  **Onde Estacionei?** é uma aplicação web leve e intuitiva que utiliza a geolocalização do teu smartphone para guardar a posição exata da tua vaga.
 
